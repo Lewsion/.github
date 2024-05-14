@@ -1,12 +1,12 @@
-# Lewsion
+# Lewsion Technologies
 
-Welcome to the Lewsion GitHub organization! We are dedicated to making communication easier for everyone and simplifying cloud services for all.
+Welcome to the Lewsion Technologies GitHub organization! We are dedicated to making communication easier for everyone and simplifying cloud services for all.
 
 ## Our Mission
 
 **Making Communication Easy for Everyone and Making Cloud Services More Accessible for All**
 
-At Lewsion, we strive to deliver robust VoIP solutions, open-source projects, and cloud services that empower enterprises and businesses across various IT needs. We believe in the power of open-source collaboration to drive innovation and make technology more accessible.
+At Lewsion Technologies, we strive to deliver robust VoIP solutions, open-source projects, and cloud services that empower enterprises and businesses across various IT needs. We believe in the power of open-source collaboration to drive innovation and make technology more accessible.
 
 ## Our Projects
 
@@ -20,7 +20,7 @@ Our solutions are tailored for:
 - Enterprises and businesses
 - IT industries with diverse needs
 
-Whether you are a small business or a large corporation, our projects aim to meet your communication and cloud service needs.
+We primarily serve the Bangladesh market, but we have also successfully supported many international companies with their IT infrastructure development. Whether you are a small business or a large corporation, our projects aim to meet your communication and cloud service needs.
 
 ## Contributing
 
@@ -41,4 +41,4 @@ For any inquiries or further information, feel free to contact us at [contact@le
 
 ---
 
-Thank you for visiting Lewsion! Together, let's make communication and cloud services easy and accessible for everyone.
+Thank you for visiting Lewsion Technologies! Together, let's make communication and cloud services easy and accessible for everyone.
